@@ -1,0 +1,33 @@
+Terranean,,
+Item,Weight,Probability
+bone,3,"1,41 %"
+cauldron,4,"1,88 %"
+common,75,"35,21 %"
+uncommon,55,"25,82 %"
+scarce,25,"11,74 %"
+rare,20,"9,39 %"
+epic,10,"4,69 %"
+legendary,4,"1,88 %"
+mythical,2,"0,94 %"
+skull,6,"2,82 %"
+gold_skull,5,"2,35 %"
+crystal skull,4,"1,88 %"
+TOTAL,213,
+,,
+,(Un)Common,"61,03 %"
+,Rare?Mythical,"16,90 %"
+,Epic?Mythical,"7,51 %"
+,Skull?CrSkull,"7,04 %"
+,,
+Aquatic,,
+Item,Weight,Probability
+bone,3,"3,57 %"
+scarce,28,"33,33 %"
+rare,24,"28,57 %"
+epic,8,"9,52 %"
+legendary,4,"4,76 %"
+mythical,2,"2,38 %"
+skull,6,"7,14 %"
+gold_skull,5,"5,95 %"
+crystal skull,4,"4,76 %"
+TOTAL,84,
