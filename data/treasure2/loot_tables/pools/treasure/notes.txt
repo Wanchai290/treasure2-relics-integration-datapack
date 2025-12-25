@@ -1,4 +1,0 @@
-legendary, mythical treasures loot table use epic treasure
-
-modified them with an additional relic_[rarity]_epic_treasure.json
-so that we ahve an increased chance for relics to appear in legendary and mythical treasures
