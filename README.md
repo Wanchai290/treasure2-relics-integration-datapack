@@ -7,5 +7,5 @@ as well as inside skull, golden skull, and crystal skull chests.
 Guaranteed to find a relic inside a mythical chest.
 
 Infinity Ham is not part of the Relics loot table that I created
-(I find this item really overpowered). You can add an entry if you
-want it to be part of it. All relics have the same weight.
+(I find this item really overpowered). You can add an entry 
+inside `data/relics/loot_tables/items.json` if you want it to be part of it. All relics have the same weight.
